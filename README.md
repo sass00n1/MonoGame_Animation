@@ -1,0 +1,2 @@
+# MonoGame_Animation
+适用于MonoGame框架的动画库
